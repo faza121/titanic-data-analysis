@@ -1,6 +1,6 @@
 import pandas as pd
 # loading titanic dataset
-# url = "Titanic.csv"
+url = "Titanic.csv"
 df = pd.read_csv(url)
 
 #Display Column names, numbert of rows and datatypes
